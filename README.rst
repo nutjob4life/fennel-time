@@ -13,5 +13,8 @@ the thing had a bad real time clock.  Or maybe needed a new battery.  Whatever.
 Ultimately, I wrote this script and ran it as a periodic cron job to keep the
 time set.
 
+(This was last updated on 2005-11-17.  It was probably last used for not much
+long after.)
+
 .. References:
 .. _`3com OfficeConnect ISDN Modem`: http://pro-networking-h17007.external.hp.com/us/en/support/converter/index.aspx?productNum=JE997A
